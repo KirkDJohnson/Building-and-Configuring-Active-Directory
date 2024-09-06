@@ -1,4 +1,4 @@
-<h1>Building and Configuring Active Directory (IN PROGRESS)</h1>
+<h1>Installing and Building an Active Directory Domain(IN PROGRESS)</h1>
 
 <br />
 <h2>Description</h2>
