@@ -1,8 +1,8 @@
-<h1>Installing and Building an Active Directory Domain(IN PROGRESS)</h1>
+<h1>Installing and Building an Active Directory Domain</h1>
 
 <br />
 <h2>Description</h2>
-Text
+Using Virtual Box, I downloaded and installed Windows Server 2022, and two Windows 10 Pro endpoints. On the Windows Server, I installed Active Directory Domain Services, created a new forest with the root domain of ADLab.local. I created two users accounts, helpdesk that has full administrative privileges and john smith who is a basic domain user. This repository servers as the background and and steps I took to install the Active Directory environment that I will expland upon in future repositories
 
 <h2>Utilities Used</h2>
 
@@ -58,7 +58,7 @@ Next, with AD UC I created the user john smith, this will act as the standard us
  <img src="https://github.com/user-attachments/assets/10f99e0b-987d-41a1-ba98-3f298fc3f617" alt="Active Directory Projext"/>
 <br />
 <br />
-At this point I have installed the Windows Server and Active Directory services, created two user accounts, helpdesk with administrative privileges and john smith who I created the OU HR for and moved him into it. I created two and configured two Windows 10 Pro VMs and connected them to the Domain Contoller succesfully. With the base installation of the Active Direcotry Forest, two client machines, one for administrating the other client john smith, I will move on to configuring and expirementing with different functions and add ons in Active Directory in the next repository.<br/>
+At this point I have installed the Windows Server and Active Directory services, created two user accounts, helpdesk with administrative privileges and john smith who I created the Orgnaizational Unit (OU) HR for and moved him into it. I created two and configured two Windows 10 Pro VMs and connected them to the Domain Contoller succesSfully. With the base installation of the Active Direcotry Forest, two client machines, one for administrating the other client john smith, I will move on to configuring and expirementing with different functions and add ons in Active Directory in the next repository.<br/>
 <br />
 <br />
 
