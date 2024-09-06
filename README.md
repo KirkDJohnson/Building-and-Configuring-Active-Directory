@@ -51,8 +51,8 @@ After the restart, I went to change adapter settings, clicked IPv4 as I did with
 <img src="https://github.com/user-attachments/assets/445c3324-b36d-4b6b-8c51-108b97b8eb3e" alt="Active Directory Projext"/>
 <br />
 <br />
-Text<br/>
-<img src="" alt="Active Directory Projext"/>
+Next, with AD UC I created a user name john smith, this will act as standard user where I will test different group policies and Active Directory function on. I installed another Windows 10 Pro VM for that user to have.<br/>
+<img src="https://github.com/user-attachments/assets/b2977214-b297-4d4e-bef8-498a56584b35" alt="Active Directory Projext"/>
 <br />
 <br />
 Text<br/>
