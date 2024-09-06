@@ -2,7 +2,7 @@
 
 <br />
 <h2>Description</h2>
-Using Virtual Box, I downloaded and installed Windows Server 2022, and two Windows 10 Pro endpoints. On the Windows Server, I installed Active Directory Domain Services, created a new forest with the root domain of ADLab.local. I created two users accounts, helpdesk that has full administrative privileges and john smith who is a basic domain user. This repository servers as the background and and steps I took to install the Active Directory environment that I will expland upon in future repositories
+Using Virtual Box, I downloaded and installed Windows Server 2022, and two Windows 10 Pro endpoints. On the Windows Server, I installed Active Directory Domain Services, created a new forest with the root domain of ADLab.local. I created two user accounts, helpdesk that has full administrative privileges and john smith who is a basic domain user. This repository serves as the background and the steps I took to install the Active Directory environment that I will expland upon in future repositories
 
 <h2>Utilities Used</h2>
 
