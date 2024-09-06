@@ -51,11 +51,14 @@ After the restart, I went to change adapter settings, clicked IPv4 as I did with
 <img src="https://github.com/user-attachments/assets/445c3324-b36d-4b6b-8c51-108b97b8eb3e" alt="Active Directory Projext"/>
 <br />
 <br />
-Next, with AD UC I created a user name john smith, this will act as standard user where I will test different group policies and Active Directory function on. I installed another Windows 10 Pro VM for that user to have.<br/>
+Next, with AD UC I created a user name john smith, this will act as standard user where I will test different group policies and Active Directory function on. I installed another Windows 10 Pro VM for that user to have. On the second Windows 10 client machine, I followed the same steps of changing the Computer's name to Desktop2, statically assigned the layer 3 addresses so I can be apart of the network of the domain and then successfully joined the domain.<br/>
 <img src="https://github.com/user-attachments/assets/b2977214-b297-4d4e-bef8-498a56584b35" alt="Active Directory Projext"/>
+<img src="https://github.com/user-attachments/assets/a78f210f-14a8-4c0f-abc0-a3c6b104c935" alt="Active Directory Projext"/>
+<img src="https://github.com/user-attachments/assets/fece4b68-a915-46d5-b40d-f6e027e60e2c" alt="Active Directory Projext"/>
+ <img src="https://github.com/user-attachments/assets/10f99e0b-987d-41a1-ba98-3f298fc3f617" alt="Active Directory Projext"/>
 <br />
 <br />
-Text<br/>
+At this point I have installed the Windows Server and Active Directory services, created two user accounts, helpdesk with administrative privileges and john smith who I created the OU HR for and moved him into. I created two and configured two Windows 10 Pro VMs and connected them to the Domain Contoller succesfully.<br/>
 <img src="" alt="Active Directory Projext"/>
 <br />
 <br />
