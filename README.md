@@ -51,7 +51,7 @@ After the restart, I went to change adapter settings, clicked IPv4 as I did with
 <img src="https://github.com/user-attachments/assets/445c3324-b36d-4b6b-8c51-108b97b8eb3e" alt="Active Directory Projext"/>
 <br />
 <br />
-Next, with AD UC I created the user john smith, this will act as standard user where I will test different group policies and Active Directory functions on. I installed another Windows 10 Pro VM for that user to have. On the second Windows 10 client machine, I followed the same steps of changing the Computer's name to Desktop2, statically assigned the layer 3 addresses so it can be a part of the network of the domain and then successfully joined the domain.<br/>
+Next, with AD UC I created the user john smith, this will act as the standard user where I will test different group policies and Active Directory functions on. I installed another Windows 10 Pro VM as the user's primary machine. On the second Windows 10 client machine, I followed the same steps of changing the Computer's name to Desktop2, statically assigned the layer 3 addresses so it can be a part of the network of the domain and then successfully joined the domain.<br/>
 <img src="https://github.com/user-attachments/assets/b2977214-b297-4d4e-bef8-498a56584b35" alt="Active Directory Projext"/>
 <img src="https://github.com/user-attachments/assets/a78f210f-14a8-4c0f-abc0-a3c6b104c935" alt="Active Directory Projext"/>
 <img src="https://github.com/user-attachments/assets/fece4b68-a915-46d5-b40d-f6e027e60e2c" alt="Active Directory Projext"/>
