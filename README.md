@@ -58,7 +58,7 @@ Next, with AD UC I created the user john smith, this will act as the standard us
  <img src="https://github.com/user-attachments/assets/10f99e0b-987d-41a1-ba98-3f298fc3f617" alt="Installing AD"/>
 <br />
 <br />
-At this point I have installed the Windows Server and Active Directory services, created two user accounts, helpdesk with administrative privileges and john smith who I created the Orgnaizational Unit (OU) HR for and moved him into it. I created two and configured two Windows 10 Pro VMs and connected them to the Domain Contoller succesSfully. With the base installation of the Active Direcotry Forest, two client machines, one for administrating the other client john smith, I will move on to configuring and expirementing with different functions and add ons in Active Directory in the next repository.<br/>
+At this point I have installed the Windows Server and Active Directory services, created two user accounts, helpdesk with administrative privileges and john smith who I created the Orgnaizational Unit (OU) HR for and moved him into it. I created two and configured two Windows 10 Pro VMs and connected them to the Domain Contoller successfully. With the base installation of the Active Direcotry Forest, two client machines, one for administrating the other client john smith, I will move on to configuring and expirementing with different functions and add ons in Active Directory in the next repository.<br/>
 <br />
 <br />
 
